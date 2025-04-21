@@ -70,5 +70,3 @@ ui_*
 # Ignore generated diagrams
 *.cd
 
-# Ignore documentation binaries
-*.pdf
